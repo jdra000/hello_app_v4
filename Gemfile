@@ -32,7 +32,7 @@ end
 # Testing Tools
 group :test do
   gem "capybara", "3.37.1"
-  gem "selenium-webdriver", "4.2.0"
+  gem "selenium-webdriver", "4.26.0"
   gem "webdrivers", "5.0.0"
 end
 
