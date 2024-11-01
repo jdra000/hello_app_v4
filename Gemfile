@@ -17,7 +17,7 @@ gem "bootsnap", "1.12.0", require: false
 # Database
 group :development, :test do
   gem "sqlite3", "~> 1.4"
-  gem "debug", "1.5.0", platforms: %i[mri mingw x64_mingw]
+  gem "debug", "1.9.2", platforms: %i[mri mingw x64_mingw]
 end
 
 group :production do
